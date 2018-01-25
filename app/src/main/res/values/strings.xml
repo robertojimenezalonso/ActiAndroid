@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">ActiAndroid</string>
+    <string name="app_name">Roberto y Carlos</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnGo">Entrar</string>
+    <string name="title_activity_maps">Mapa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
